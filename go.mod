@@ -1,4 +1,4 @@
-module github.com/botato
+module github.com/iperalta7/botato
 
 go 1.24.1
 
